@@ -1,16 +1,16 @@
 CACHE MANIFEST
 #DATE 2016-02-04
 CACHE:
- 1.jpg
- README.md
- goldhen_2.1.2_900.bin
- index.html
- int64.js
- kexploit.js
- manifest.appcache
- payloads.js
- rop.js
- webkit.js
+1.jpg
+README.md
+goldhen_2.1.2_900.bin
+index.html
+int64.js
+kexploit.js
+manifest.appcache
+payloads.js
+rop.js
+webkit.js
 
 NETWORK:
 *
